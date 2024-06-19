@@ -25,7 +25,7 @@ connect to the server and call the API created in step 1.
 ## How to run?
 
 ### Step 1: 
-Install Node js v20.14.0(LTS)
+Install Node js v20.14.0(LTS) and install the requirement.txt file on yur work directory
 
 ### Step 2:
 Read the [README.md](https://github.com/shubhangamjha/Doctor-Patient-Connection-Dashboard/blob/main/Doctor-Patient-Dashboard-app/README.md) file in Doctor-Patient-Dashboard Folder
