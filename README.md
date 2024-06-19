@@ -1,6 +1,6 @@
 # Doctor-Patient-Connection-Dashboard
 This test scenario describes an application that we will be creating at Formulo. Interview Scenario: Doctor-Patient Connect Dashboard. This test scenario describes an application that we will be creating at Formulo. Our team includes doctors who want to connect with their patients, follow up on upcoming appointments, and view communication history with their patients. The requirement of this interview step is to create two applications: a UI and a backend to display the aforementioned data. The data for these doctors is stored in MongoDB; the connection string is shared at the bottom of the page. Perform the following tasks:
-# Backend
+## Backend
 1. Create a server-side single API using a Python Flask or Django application to connect to the database and render a response.
 2. The API should take 2 parameters:
   ● 1 optional request parameter: Patient Name.
@@ -10,7 +10,7 @@ This test scenario describes an application that we will be creating at Formulo.
     {code: 200, status: "Success", data: <data from API>}
 4. Note: Perform appropriate validations for the mandatory parameters.
 
-# Frontend
+## Frontend
 1. Create a single web page using a JavaScript MVC framework: either React, Angular, or Vue, to
 connect to the server and call the API created in step 1.
 2. Create cards/tiles inspired by Material UI to show patients. Each card should consist of:
