@@ -28,7 +28,7 @@ connect to the server and call the API created in step 1.
 Install Node js v20.14.0(LTS)
 
 ### Step 2:
-Read the README.md file in Doctor-Patient-Dashboard Folder
+Read the [README.md](https://github.com/shubhangamjha/Doctor-Patient-Connection-Dashboard/blob/main/Doctor-Patient-Dashboard-app/README.md) file in Doctor-Patient-Dashboard Folder
 
 ### Step 3: 
 Run the app.py file and npm start in command promt together
