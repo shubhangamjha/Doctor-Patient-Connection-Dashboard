@@ -19,7 +19,7 @@ connect to the server and call the API created in step 1.
   ● The next appointment time of the patient
 3. There should be a date selector. When a date is selected, display only the patients who have an appointment on that particular date.
 4. When a card is clicked, show a modal containing the chat history for that patient. DB connection string:
-    <href=mongodb+srv://assesment_user:uYdY!7f9C-HnX%40Y@cluster0.vcxxyf3.mongodb.net/Formulo_assesment>
+   mongodb+srv://assesment_user:uYdY!7f9C-HnX%40Y@cluster0.vcxxyf3.mongodb.net/Formulo_assesment
 
 
 ## How to run?
